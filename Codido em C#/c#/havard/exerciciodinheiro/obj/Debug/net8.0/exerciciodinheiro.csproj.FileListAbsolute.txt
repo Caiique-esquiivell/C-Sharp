@@ -1,0 +1,14 @@
+C:\Users\ecaiq\OneDrive\Documentos\c#\havard\exerciciodinheiro\bin\Debug\net8.0\exerciciodinheiro.exe
+C:\Users\ecaiq\OneDrive\Documentos\c#\havard\exerciciodinheiro\bin\Debug\net8.0\exerciciodinheiro.deps.json
+C:\Users\ecaiq\OneDrive\Documentos\c#\havard\exerciciodinheiro\bin\Debug\net8.0\exerciciodinheiro.runtimeconfig.json
+C:\Users\ecaiq\OneDrive\Documentos\c#\havard\exerciciodinheiro\bin\Debug\net8.0\exerciciodinheiro.dll
+C:\Users\ecaiq\OneDrive\Documentos\c#\havard\exerciciodinheiro\bin\Debug\net8.0\exerciciodinheiro.pdb
+C:\Users\ecaiq\OneDrive\Documentos\c#\havard\exerciciodinheiro\obj\Debug\net8.0\exerciciodinheiro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ecaiq\OneDrive\Documentos\c#\havard\exerciciodinheiro\obj\Debug\net8.0\exerciciodinheiro.AssemblyInfoInputs.cache
+C:\Users\ecaiq\OneDrive\Documentos\c#\havard\exerciciodinheiro\obj\Debug\net8.0\exerciciodinheiro.AssemblyInfo.cs
+C:\Users\ecaiq\OneDrive\Documentos\c#\havard\exerciciodinheiro\obj\Debug\net8.0\exerciciodinheiro.csproj.CoreCompileInputs.cache
+C:\Users\ecaiq\OneDrive\Documentos\c#\havard\exerciciodinheiro\obj\Debug\net8.0\exerciciodinheiro.dll
+C:\Users\ecaiq\OneDrive\Documentos\c#\havard\exerciciodinheiro\obj\Debug\net8.0\refint\exerciciodinheiro.dll
+C:\Users\ecaiq\OneDrive\Documentos\c#\havard\exerciciodinheiro\obj\Debug\net8.0\exerciciodinheiro.pdb
+C:\Users\ecaiq\OneDrive\Documentos\c#\havard\exerciciodinheiro\obj\Debug\net8.0\exerciciodinheiro.genruntimeconfig.cache
+C:\Users\ecaiq\OneDrive\Documentos\c#\havard\exerciciodinheiro\obj\Debug\net8.0\ref\exerciciodinheiro.dll

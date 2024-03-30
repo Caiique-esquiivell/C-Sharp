@@ -1,0 +1,14 @@
+C:\Users\ecaiq\OneDrive\Documentos\c#\havard\exerciciocredito\bin\Debug\net8.0\exerciciocredito.exe
+C:\Users\ecaiq\OneDrive\Documentos\c#\havard\exerciciocredito\bin\Debug\net8.0\exerciciocredito.deps.json
+C:\Users\ecaiq\OneDrive\Documentos\c#\havard\exerciciocredito\bin\Debug\net8.0\exerciciocredito.runtimeconfig.json
+C:\Users\ecaiq\OneDrive\Documentos\c#\havard\exerciciocredito\bin\Debug\net8.0\exerciciocredito.dll
+C:\Users\ecaiq\OneDrive\Documentos\c#\havard\exerciciocredito\bin\Debug\net8.0\exerciciocredito.pdb
+C:\Users\ecaiq\OneDrive\Documentos\c#\havard\exerciciocredito\obj\Debug\net8.0\exerciciocredito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ecaiq\OneDrive\Documentos\c#\havard\exerciciocredito\obj\Debug\net8.0\exerciciocredito.AssemblyInfoInputs.cache
+C:\Users\ecaiq\OneDrive\Documentos\c#\havard\exerciciocredito\obj\Debug\net8.0\exerciciocredito.AssemblyInfo.cs
+C:\Users\ecaiq\OneDrive\Documentos\c#\havard\exerciciocredito\obj\Debug\net8.0\exerciciocredito.csproj.CoreCompileInputs.cache
+C:\Users\ecaiq\OneDrive\Documentos\c#\havard\exerciciocredito\obj\Debug\net8.0\exerciciocredito.dll
+C:\Users\ecaiq\OneDrive\Documentos\c#\havard\exerciciocredito\obj\Debug\net8.0\refint\exerciciocredito.dll
+C:\Users\ecaiq\OneDrive\Documentos\c#\havard\exerciciocredito\obj\Debug\net8.0\exerciciocredito.pdb
+C:\Users\ecaiq\OneDrive\Documentos\c#\havard\exerciciocredito\obj\Debug\net8.0\exerciciocredito.genruntimeconfig.cache
+C:\Users\ecaiq\OneDrive\Documentos\c#\havard\exerciciocredito\obj\Debug\net8.0\ref\exerciciocredito.dll

@@ -1,0 +1,14 @@
+C:\Users\ecaiq\OneDrive\Documentos\c#\havard\exerciciomario\bin\Debug\net8.0\exerciciomario.exe
+C:\Users\ecaiq\OneDrive\Documentos\c#\havard\exerciciomario\bin\Debug\net8.0\exerciciomario.deps.json
+C:\Users\ecaiq\OneDrive\Documentos\c#\havard\exerciciomario\bin\Debug\net8.0\exerciciomario.runtimeconfig.json
+C:\Users\ecaiq\OneDrive\Documentos\c#\havard\exerciciomario\bin\Debug\net8.0\exerciciomario.dll
+C:\Users\ecaiq\OneDrive\Documentos\c#\havard\exerciciomario\bin\Debug\net8.0\exerciciomario.pdb
+C:\Users\ecaiq\OneDrive\Documentos\c#\havard\exerciciomario\obj\Debug\net8.0\exerciciomario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ecaiq\OneDrive\Documentos\c#\havard\exerciciomario\obj\Debug\net8.0\exerciciomario.AssemblyInfoInputs.cache
+C:\Users\ecaiq\OneDrive\Documentos\c#\havard\exerciciomario\obj\Debug\net8.0\exerciciomario.AssemblyInfo.cs
+C:\Users\ecaiq\OneDrive\Documentos\c#\havard\exerciciomario\obj\Debug\net8.0\exerciciomario.csproj.CoreCompileInputs.cache
+C:\Users\ecaiq\OneDrive\Documentos\c#\havard\exerciciomario\obj\Debug\net8.0\exerciciomario.dll
+C:\Users\ecaiq\OneDrive\Documentos\c#\havard\exerciciomario\obj\Debug\net8.0\refint\exerciciomario.dll
+C:\Users\ecaiq\OneDrive\Documentos\c#\havard\exerciciomario\obj\Debug\net8.0\exerciciomario.pdb
+C:\Users\ecaiq\OneDrive\Documentos\c#\havard\exerciciomario\obj\Debug\net8.0\exerciciomario.genruntimeconfig.cache
+C:\Users\ecaiq\OneDrive\Documentos\c#\havard\exerciciomario\obj\Debug\net8.0\ref\exerciciomario.dll

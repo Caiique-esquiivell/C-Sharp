@@ -1,0 +1,14 @@
+C:\Users\ecaiq\OneDrive\Documentos\c#\prova\bin\Debug\net8.0\prova.exe
+C:\Users\ecaiq\OneDrive\Documentos\c#\prova\bin\Debug\net8.0\prova.deps.json
+C:\Users\ecaiq\OneDrive\Documentos\c#\prova\bin\Debug\net8.0\prova.runtimeconfig.json
+C:\Users\ecaiq\OneDrive\Documentos\c#\prova\bin\Debug\net8.0\prova.dll
+C:\Users\ecaiq\OneDrive\Documentos\c#\prova\bin\Debug\net8.0\prova.pdb
+C:\Users\ecaiq\OneDrive\Documentos\c#\prova\obj\Debug\net8.0\prova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ecaiq\OneDrive\Documentos\c#\prova\obj\Debug\net8.0\prova.AssemblyInfoInputs.cache
+C:\Users\ecaiq\OneDrive\Documentos\c#\prova\obj\Debug\net8.0\prova.AssemblyInfo.cs
+C:\Users\ecaiq\OneDrive\Documentos\c#\prova\obj\Debug\net8.0\prova.csproj.CoreCompileInputs.cache
+C:\Users\ecaiq\OneDrive\Documentos\c#\prova\obj\Debug\net8.0\prova.dll
+C:\Users\ecaiq\OneDrive\Documentos\c#\prova\obj\Debug\net8.0\refint\prova.dll
+C:\Users\ecaiq\OneDrive\Documentos\c#\prova\obj\Debug\net8.0\prova.pdb
+C:\Users\ecaiq\OneDrive\Documentos\c#\prova\obj\Debug\net8.0\prova.genruntimeconfig.cache
+C:\Users\ecaiq\OneDrive\Documentos\c#\prova\obj\Debug\net8.0\ref\prova.dll

@@ -1,0 +1,14 @@
+C:\Users\ecaiq\OneDrive\Documentos\c#\Nelio Alves\exercicio04\bin\Debug\net8.0\exercicio04.exe
+C:\Users\ecaiq\OneDrive\Documentos\c#\Nelio Alves\exercicio04\bin\Debug\net8.0\exercicio04.deps.json
+C:\Users\ecaiq\OneDrive\Documentos\c#\Nelio Alves\exercicio04\bin\Debug\net8.0\exercicio04.runtimeconfig.json
+C:\Users\ecaiq\OneDrive\Documentos\c#\Nelio Alves\exercicio04\bin\Debug\net8.0\exercicio04.dll
+C:\Users\ecaiq\OneDrive\Documentos\c#\Nelio Alves\exercicio04\bin\Debug\net8.0\exercicio04.pdb
+C:\Users\ecaiq\OneDrive\Documentos\c#\Nelio Alves\exercicio04\obj\Debug\net8.0\exercicio04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ecaiq\OneDrive\Documentos\c#\Nelio Alves\exercicio04\obj\Debug\net8.0\exercicio04.AssemblyInfoInputs.cache
+C:\Users\ecaiq\OneDrive\Documentos\c#\Nelio Alves\exercicio04\obj\Debug\net8.0\exercicio04.AssemblyInfo.cs
+C:\Users\ecaiq\OneDrive\Documentos\c#\Nelio Alves\exercicio04\obj\Debug\net8.0\exercicio04.csproj.CoreCompileInputs.cache
+C:\Users\ecaiq\OneDrive\Documentos\c#\Nelio Alves\exercicio04\obj\Debug\net8.0\exercicio04.dll
+C:\Users\ecaiq\OneDrive\Documentos\c#\Nelio Alves\exercicio04\obj\Debug\net8.0\refint\exercicio04.dll
+C:\Users\ecaiq\OneDrive\Documentos\c#\Nelio Alves\exercicio04\obj\Debug\net8.0\exercicio04.pdb
+C:\Users\ecaiq\OneDrive\Documentos\c#\Nelio Alves\exercicio04\obj\Debug\net8.0\exercicio04.genruntimeconfig.cache
+C:\Users\ecaiq\OneDrive\Documentos\c#\Nelio Alves\exercicio04\obj\Debug\net8.0\ref\exercicio04.dll

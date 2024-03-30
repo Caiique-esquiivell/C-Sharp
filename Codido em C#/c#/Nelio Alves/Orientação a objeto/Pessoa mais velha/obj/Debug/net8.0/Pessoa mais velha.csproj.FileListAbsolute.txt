@@ -1,0 +1,14 @@
+C:\Users\ecaiq\OneDrive\Documentos\c#\Nelio Alves\Orientação a objeto\Pessoa mais velha\bin\Debug\net8.0\Pessoa mais velha.exe
+C:\Users\ecaiq\OneDrive\Documentos\c#\Nelio Alves\Orientação a objeto\Pessoa mais velha\bin\Debug\net8.0\Pessoa mais velha.deps.json
+C:\Users\ecaiq\OneDrive\Documentos\c#\Nelio Alves\Orientação a objeto\Pessoa mais velha\bin\Debug\net8.0\Pessoa mais velha.runtimeconfig.json
+C:\Users\ecaiq\OneDrive\Documentos\c#\Nelio Alves\Orientação a objeto\Pessoa mais velha\bin\Debug\net8.0\Pessoa mais velha.dll
+C:\Users\ecaiq\OneDrive\Documentos\c#\Nelio Alves\Orientação a objeto\Pessoa mais velha\bin\Debug\net8.0\Pessoa mais velha.pdb
+C:\Users\ecaiq\OneDrive\Documentos\c#\Nelio Alves\Orientação a objeto\Pessoa mais velha\obj\Debug\net8.0\Pessoa mais velha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ecaiq\OneDrive\Documentos\c#\Nelio Alves\Orientação a objeto\Pessoa mais velha\obj\Debug\net8.0\Pessoa mais velha.AssemblyInfoInputs.cache
+C:\Users\ecaiq\OneDrive\Documentos\c#\Nelio Alves\Orientação a objeto\Pessoa mais velha\obj\Debug\net8.0\Pessoa mais velha.AssemblyInfo.cs
+C:\Users\ecaiq\OneDrive\Documentos\c#\Nelio Alves\Orientação a objeto\Pessoa mais velha\obj\Debug\net8.0\Pessoa mais velha.csproj.CoreCompileInputs.cache
+C:\Users\ecaiq\OneDrive\Documentos\c#\Nelio Alves\Orientação a objeto\Pessoa mais velha\obj\Debug\net8.0\Pessoa mais velha.dll
+C:\Users\ecaiq\OneDrive\Documentos\c#\Nelio Alves\Orientação a objeto\Pessoa mais velha\obj\Debug\net8.0\refint\Pessoa mais velha.dll
+C:\Users\ecaiq\OneDrive\Documentos\c#\Nelio Alves\Orientação a objeto\Pessoa mais velha\obj\Debug\net8.0\Pessoa mais velha.pdb
+C:\Users\ecaiq\OneDrive\Documentos\c#\Nelio Alves\Orientação a objeto\Pessoa mais velha\obj\Debug\net8.0\Pessoa mais velha.genruntimeconfig.cache
+C:\Users\ecaiq\OneDrive\Documentos\c#\Nelio Alves\Orientação a objeto\Pessoa mais velha\obj\Debug\net8.0\ref\Pessoa mais velha.dll

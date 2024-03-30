@@ -1,0 +1,14 @@
+C:\Users\ecaiq\OneDrive\Documentos\c#\havard\exerciomariodois\bin\Debug\net8.0\exerciomariodois.exe
+C:\Users\ecaiq\OneDrive\Documentos\c#\havard\exerciomariodois\bin\Debug\net8.0\exerciomariodois.deps.json
+C:\Users\ecaiq\OneDrive\Documentos\c#\havard\exerciomariodois\bin\Debug\net8.0\exerciomariodois.runtimeconfig.json
+C:\Users\ecaiq\OneDrive\Documentos\c#\havard\exerciomariodois\bin\Debug\net8.0\exerciomariodois.dll
+C:\Users\ecaiq\OneDrive\Documentos\c#\havard\exerciomariodois\bin\Debug\net8.0\exerciomariodois.pdb
+C:\Users\ecaiq\OneDrive\Documentos\c#\havard\exerciomariodois\obj\Debug\net8.0\exerciomariodois.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ecaiq\OneDrive\Documentos\c#\havard\exerciomariodois\obj\Debug\net8.0\exerciomariodois.AssemblyInfoInputs.cache
+C:\Users\ecaiq\OneDrive\Documentos\c#\havard\exerciomariodois\obj\Debug\net8.0\exerciomariodois.AssemblyInfo.cs
+C:\Users\ecaiq\OneDrive\Documentos\c#\havard\exerciomariodois\obj\Debug\net8.0\exerciomariodois.csproj.CoreCompileInputs.cache
+C:\Users\ecaiq\OneDrive\Documentos\c#\havard\exerciomariodois\obj\Debug\net8.0\exerciomariodois.dll
+C:\Users\ecaiq\OneDrive\Documentos\c#\havard\exerciomariodois\obj\Debug\net8.0\refint\exerciomariodois.dll
+C:\Users\ecaiq\OneDrive\Documentos\c#\havard\exerciomariodois\obj\Debug\net8.0\exerciomariodois.pdb
+C:\Users\ecaiq\OneDrive\Documentos\c#\havard\exerciomariodois\obj\Debug\net8.0\exerciomariodois.genruntimeconfig.cache
+C:\Users\ecaiq\OneDrive\Documentos\c#\havard\exerciomariodois\obj\Debug\net8.0\ref\exerciomariodois.dll

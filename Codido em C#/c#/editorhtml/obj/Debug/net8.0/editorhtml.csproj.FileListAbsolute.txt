@@ -1,0 +1,4 @@
+C:\Users\ecaiq\OneDrive\Documentos\c#\editorhtml\obj\Debug\net8.0\editorhtml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ecaiq\OneDrive\Documentos\c#\editorhtml\obj\Debug\net8.0\editorhtml.AssemblyInfoInputs.cache
+C:\Users\ecaiq\OneDrive\Documentos\c#\editorhtml\obj\Debug\net8.0\editorhtml.AssemblyInfo.cs
+C:\Users\ecaiq\OneDrive\Documentos\c#\editorhtml\obj\Debug\net8.0\editorhtml.csproj.CoreCompileInputs.cache

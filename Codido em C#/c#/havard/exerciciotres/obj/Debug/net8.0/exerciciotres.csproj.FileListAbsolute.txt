@@ -1,0 +1,14 @@
+C:\Users\ecaiq\OneDrive\Documentos\c#\havard\exerciciotres\bin\Debug\net8.0\exerciciotres.exe
+C:\Users\ecaiq\OneDrive\Documentos\c#\havard\exerciciotres\bin\Debug\net8.0\exerciciotres.deps.json
+C:\Users\ecaiq\OneDrive\Documentos\c#\havard\exerciciotres\bin\Debug\net8.0\exerciciotres.runtimeconfig.json
+C:\Users\ecaiq\OneDrive\Documentos\c#\havard\exerciciotres\bin\Debug\net8.0\exerciciotres.dll
+C:\Users\ecaiq\OneDrive\Documentos\c#\havard\exerciciotres\bin\Debug\net8.0\exerciciotres.pdb
+C:\Users\ecaiq\OneDrive\Documentos\c#\havard\exerciciotres\obj\Debug\net8.0\exerciciotres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ecaiq\OneDrive\Documentos\c#\havard\exerciciotres\obj\Debug\net8.0\exerciciotres.AssemblyInfoInputs.cache
+C:\Users\ecaiq\OneDrive\Documentos\c#\havard\exerciciotres\obj\Debug\net8.0\exerciciotres.AssemblyInfo.cs
+C:\Users\ecaiq\OneDrive\Documentos\c#\havard\exerciciotres\obj\Debug\net8.0\exerciciotres.csproj.CoreCompileInputs.cache
+C:\Users\ecaiq\OneDrive\Documentos\c#\havard\exerciciotres\obj\Debug\net8.0\exerciciotres.dll
+C:\Users\ecaiq\OneDrive\Documentos\c#\havard\exerciciotres\obj\Debug\net8.0\refint\exerciciotres.dll
+C:\Users\ecaiq\OneDrive\Documentos\c#\havard\exerciciotres\obj\Debug\net8.0\exerciciotres.pdb
+C:\Users\ecaiq\OneDrive\Documentos\c#\havard\exerciciotres\obj\Debug\net8.0\exerciciotres.genruntimeconfig.cache
+C:\Users\ecaiq\OneDrive\Documentos\c#\havard\exerciciotres\obj\Debug\net8.0\ref\exerciciotres.dll

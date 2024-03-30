@@ -1,0 +1,14 @@
+C:\Users\ecaiq\OneDrive\Documentos\c#\editor\bin\Debug\net8.0\editor.exe
+C:\Users\ecaiq\OneDrive\Documentos\c#\editor\bin\Debug\net8.0\editor.deps.json
+C:\Users\ecaiq\OneDrive\Documentos\c#\editor\bin\Debug\net8.0\editor.runtimeconfig.json
+C:\Users\ecaiq\OneDrive\Documentos\c#\editor\bin\Debug\net8.0\editor.dll
+C:\Users\ecaiq\OneDrive\Documentos\c#\editor\bin\Debug\net8.0\editor.pdb
+C:\Users\ecaiq\OneDrive\Documentos\c#\editor\obj\Debug\net8.0\editor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ecaiq\OneDrive\Documentos\c#\editor\obj\Debug\net8.0\editor.AssemblyInfoInputs.cache
+C:\Users\ecaiq\OneDrive\Documentos\c#\editor\obj\Debug\net8.0\editor.AssemblyInfo.cs
+C:\Users\ecaiq\OneDrive\Documentos\c#\editor\obj\Debug\net8.0\editor.csproj.CoreCompileInputs.cache
+C:\Users\ecaiq\OneDrive\Documentos\c#\editor\obj\Debug\net8.0\editor.dll
+C:\Users\ecaiq\OneDrive\Documentos\c#\editor\obj\Debug\net8.0\refint\editor.dll
+C:\Users\ecaiq\OneDrive\Documentos\c#\editor\obj\Debug\net8.0\editor.pdb
+C:\Users\ecaiq\OneDrive\Documentos\c#\editor\obj\Debug\net8.0\editor.genruntimeconfig.cache
+C:\Users\ecaiq\OneDrive\Documentos\c#\editor\obj\Debug\net8.0\ref\editor.dll
