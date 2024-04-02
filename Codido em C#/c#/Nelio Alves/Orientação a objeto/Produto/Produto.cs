@@ -8,6 +8,11 @@ namespace produto
         public double Preco;
         public int Quantidade;
 
+        public Produto()
+        {
+            
+        }
+
         public Produto(string nome, double preco, int quantidade)
         {
             Nome = nome;
@@ -15,7 +20,7 @@ namespace produto
             Quantidade = quantidade;
         }
 
-
+       
         public double ValorTotalEmEstoque ()
         {
             return Preco * Quantidade;
